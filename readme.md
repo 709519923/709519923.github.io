@@ -4,7 +4,7 @@
 
 
 
-<video src="video/load tracking.mp4">
+<video controls src="video/load tracking.mp4">
 
 
 
@@ -15,7 +15,7 @@
 
 
 运动规划（motion planning）：
-<video src="video/motion planner.mp4">
+<video controls src="video/motion planner.mp4">
 
 
 [TOC]

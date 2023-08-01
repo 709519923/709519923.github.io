@@ -2,7 +2,7 @@
 
 路面跟踪（load tracking）：
 
-https://github.com/709519923/Self-Driving-Cars-Specialization/assets/50516199/4f6321ce-de95-408a-b53b-d505754c2d0f.mp4
+https://user-images.githubusercontent.com/50516199/257464394-c67d81b6-cbcd-4644-b4ae-0c398b25925e.mp4
 
 特征提取（feature extration）：
 
@@ -12,7 +12,7 @@ https://github.com/709519923/Self-Driving-Cars-Specialization/assets/50516199/4f
 
 运动规划（motion planning）：
 
-https://github.com/709519923/Self-Driving-Cars-Specialization/assets/50516199/bae066ec-d932-40d5-b714-59b695f60aea.mp4
+https://user-images.githubusercontent.com/50516199/257464472-c6e4f6ca-980c-42fb-8438-a8ff629ed070.mp4
 
 [TOC]
 - [Self-driving Vehicle Algorithm Analysis（各项算法分析）](#self-driving-vehicle-algorithm-analysis（各项算法分析）)

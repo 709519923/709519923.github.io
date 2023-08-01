@@ -2,9 +2,11 @@
 
 路面跟踪（load tracking）：
 
-<video width="960" height="480" controls>
-  <source src="/images/load tracking.mp4"  type="video/mp4">
-</video>
+
+
+<video src="video/load tracking.mp4">
+
+
 
 特征提取（feature extration）：
 
@@ -13,10 +15,8 @@
 
 
 运动规划（motion planning）：
+<video src="video/motion planner.mp4">
 
-<video width="960" height="480" controls>
-  <source src="/images/motion planner.mp4"  type="video/mp4">
-</video>
 
 [TOC]
 - [Self-driving Vehicle Algorithm Analysis（各项算法分析）](#self-driving-vehicle-algorithm-analysis（各项算法分析）)

@@ -2,7 +2,9 @@
 
 路面跟踪（load tracking）：
 
-https://user-images.githubusercontent.com/50516199/257464394-c67d81b6-cbcd-4644-b4ae-0c398b25925e.mp4
+<video width="960" height="480" controls>
+  <source src="/images/load tracking.mp4"  type="video/mp4">
+</video>
 
 特征提取（feature extration）：
 
@@ -12,7 +14,9 @@ https://user-images.githubusercontent.com/50516199/257464394-c67d81b6-cbcd-4644-
 
 运动规划（motion planning）：
 
-https://user-images.githubusercontent.com/50516199/257464472-c6e4f6ca-980c-42fb-8438-a8ff629ed070.mp4
+<video width="960" height="480" controls>
+  <source src="/images/motion planner.mp4"  type="video/mp4">
+</video>
 
 [TOC]
 - [Self-driving Vehicle Algorithm Analysis（各项算法分析）](#self-driving-vehicle-algorithm-analysis（各项算法分析）)
